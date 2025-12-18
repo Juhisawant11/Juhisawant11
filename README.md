@@ -1,7 +1,9 @@
 - 👋 **Hi, I’m Juhi Sawant**,
-- Final Year Btech Computer Science and Engineering (Cybersecurity) student,
-- at NMIMS's Mukesh Patel School of Technology Management and Engineering
-- I have a keen Interest in Cybersecurity.
+- First Year MS Computer Engineering student,
+- at Virginia Polytechnic Institute and State University,
+- I enjoy solving complex security problems, analyzing attack paths, and strengthening systems through
+structured testing, automation, and documentation. My goal is to build secure, efficient, and reliable systems by combining technical depth
+with strong analytical and communication skills.
 - To reach me : juhivsawant@gmail.com
 - You can find my projects at: github.com/Juhisawant11
   
